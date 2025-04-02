@@ -108,8 +108,25 @@ Entre as vantagens do Figma estão:
 ## Apresentando Aba Códigos
 
 
+##  💻Entre em contato & me adicione!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatha-lara-silv%C3%A9rio-15b83b101/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonatha-Lara)
+
+[![Instragram](https://img.shields.io/badge/Instagram-500000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonsilveriolara/)
+
+ ## 🤓Quem sou eu?
+ Oi meu nome é Jonatha, resido em Londrina - PR, sou analista desenvolvedor de sistemas Java. Tenho graduação como Tecnólogo em Análse e Desenvolvimento de Sistemas na Unicesumar e atualmente faço uma pós graduação na Universidade Federal do Paraná em Metodologia Ágil de Software. Fiz transição de carreira na pandemia e trabalho com o mesmo cliente desde então.
+
+🏹`Skills`
+
+Java, Java Script, Html, CSS, React, Angular, PHP, Node.js, tomcat, Apache e Nginx, Shell, Bancos de dados Relacionais SQL, DB2, COBOL, API RestFull, midewares, UX Design, Pensamento Learn, Mapas Mentais, Testes Automatizados, Prototipação Figma, AWS, Azure, Kubbernetz, Docker, Integração Contínua, Entrega Contínua, trabalho em equipe, scrum, jira, git, gitHub, gitlab, gid (IBM), Arquitetura de sistemas, Engenharia de Software. 
+
 ## 🔍Referências: 
 
 - [Link](https://help.figma.com/hc/pt-br/sections/360006534454) 
 
 - [Link](https://www.youtube.com/watch?v=mM44D8O7qro&list=PLfaT9CZbt-_QEpLWuhk3wqWOC-TakYNye&index=2) 
+
+
