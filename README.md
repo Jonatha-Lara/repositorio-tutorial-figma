@@ -6,7 +6,7 @@ Figma é uma poderosa ferramenta de design de interface colaborativa, amplamente
 
 [Link figma](https://www.figma.com/)  
 
-## Pra quem ? 
+## 🤔Pra quem ? 
 
 O Figma é uma solução versátil para diversos profissionais. Para criação e prototipagem de interfaces e experiência do usuário. Ideal para ilustrações vetoriais e edição de imagens. Facilita a análise e a implementação de designs. O Figma é uma solução versátil para diversos profissionais 
 
@@ -18,7 +18,7 @@ O Figma é uma solução versátil para diversos profissionais. Para criação e
 
 - Qualquer pessoa pode usar 
 
-## O que permite fazer? 
+## 💻O que permite fazer? 
 
 Com o Figma, você pode criar: 
 
@@ -34,7 +34,7 @@ Com o Figma, você pode criar:
 
 - Brainstorm 
 
-## Usabilidade e benefícios 
+## 🛒Usabilidade e benefícios 
 
 Entre as vantagens do Figma estão: 
 
@@ -62,11 +62,11 @@ Entre as vantagens do Figma estão:
 
 - Redes sociais 
 
-##  Dica #01 
+##  🦸Dica #01 
 
-Sempre planejar antes um esboço em um papel por exemplo para elaborar uma tarefa ou projeto 
+`Antes de começar a usar o Figma, planeje um esboço em papel. Isso ajuda estruturar melhor as ideias e facilita a execução do projeto de forma mais eficiente.`
 
-## Como acessar ? 
+## 💻Como acessar ? 
 
 [Criar conta no site:](https://www.figma.com/) 
 
@@ -74,11 +74,12 @@ Sempre planejar antes um esboço em um papel por exemplo para elaborar uma taref
 
 - Versão paga 
 
-##  Dica #02 
+##  🦸Dica #02 
 
-Antes de começar a usar o Figma, planeje um esboço em papel. Isso ajuda estruturar melhor as ideias e facilita a execução do projeto de forma mais eficiente. 
+`Se usar a versão gratuita se atente quantos projetos abre pode exceder o pacote gratuito da sua conta. O que pode fazer é guardar em rascunhos`
 
-## Tutorial de uso e Documentos 
+
+## 🤓Tutorial de uso e Documentos 
 
 [Tutorial para prototipagem:](https://help.figma.com/hc/pt-br/sections/360006534454) 
 
@@ -124,7 +125,7 @@ Antes de começar a usar o Figma, planeje um esboço em papel. Isso ajuda estrut
 
  
 
-## Referências: 
+## 🔍Referências: 
 
 [Link](https://help.figma.com/hc/pt-br/sections/360006534454) 
 
