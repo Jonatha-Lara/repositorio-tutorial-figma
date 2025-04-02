@@ -2,9 +2,9 @@
 
 Figma é uma poderosa ferramenta de design de interface colaborativa, amplamente usada para criar projetos digitais com eficiência e criatividade. Ele permite que equipes trabalhem juntas em tempo real, independentemente da localização, promovendo agilidade e integração no processo de design. 
 
- - Ferramentas de design de interface colaborativa. 
+- Ferramentas de design de interface colaborativa. 
 
-[Link figma](https://www.figma.com/)  
+- [Acesse aqui o Figma](https://www.figma.com/)  
 
 ## 🤔Pra quem ? 
 
@@ -81,52 +81,35 @@ Entre as vantagens do Figma estão:
 
 ## 🤓Tutorial de uso e Documentos 
 
-[Tutorial para prototipagem:](https://help.figma.com/hc/pt-br/sections/360006534454) 
+- [Tutorial Figma](https://help.figma.com/hc/pt-br/sections/360006534454) 
 
-[Documentação do produto e acesse no menu superior ‘Documentação do produto’:] (https://help.figma.com/hc/pt-br) 
+- [Documentação Figma] (https://help.figma.com/hc/pt-br) 
 
 ## Apresentação do Layout da área de trabalho do Figma 
 
- 
+## Apresentando Ferramentas: Mover 
 
-## Ferramentas: Mover 
+## Apresentando Ferramentas: Frame 
 
- 
+## Apresentando Ferramenta: Formas 
 
-##Ferramentas: Frame 
+## Apresentando Ferramentas: Pincel 
 
- 
+## Apresentando Ferramentas: Texto 
 
-##Ferramenta: Formas 
-
- 
-
-##Ferramentas: Pincel 
-
- 
-
-##Ferramentas: Texto 
-
- 
-
-## Criando uma tela 
-
- 
+## Apresentando Criando uma tela 
 
 ## Adicionando mais uma tela 
-
  
+## Apresentando Aba Design
 
-## Ligando uma tela a outra 
+## Apresentando Aba Protótipos
 
- 
+## Apresentando Aba Códigos
 
-## Apresentando o Projeto 
-
- 
 
 ## 🔍Referências: 
 
-[Link](https://help.figma.com/hc/pt-br/sections/360006534454) 
+- [Link](https://help.figma.com/hc/pt-br/sections/360006534454) 
 
-[Link](https://www.youtube.com/watch?v=mM44D8O7qro&list=PLfaT9CZbt-_QEpLWuhk3wqWOC-TakYNye&index=2) 
+- [Link](https://www.youtube.com/watch?v=mM44D8O7qro&list=PLfaT9CZbt-_QEpLWuhk3wqWOC-TakYNye&index=2) 
