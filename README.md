@@ -68,7 +68,7 @@ Entre as vantagens do Figma estão:
 
 ## 💻Como acessar ? 
 
-[Criar conta no site:](https://www.figma.com/) 
+[Criar conta no site Clique Aqui:](https://www.figma.com/) 
 
 - Tem versão gratuita 
 
@@ -76,7 +76,7 @@ Entre as vantagens do Figma estão:
 
 ##  🦸Dica #02 
 
-`Se usar a versão gratuita se atente quantos projetos abre pode exceder o pacote gratuito da sua conta. O que pode fazer é guardar em rascunhos`
+`[ Loading...]`
 
 
 ## 🤓Tutorial de uso e Documentos 
@@ -87,45 +87,47 @@ Entre as vantagens do Figma estão:
 
 ## Apresentação do Layout da área de trabalho do Figma 
 
+[Loading...]
+
 ## Apresentando Ferramentas: Mover 
 
-[loading...]
+[Loading...]
 
 ## Apresentando Ferramentas: Frame 
 
-[loading...]
+[Loading...]
 
 ## Apresentando Ferramenta: Formas 
 
-[loading...]
+[Loading...]
 
 ## Apresentando Ferramentas: Pincel 
 
-[loading...]
+[Loading...]
 
 ## Apresentando Ferramentas: Texto 
 
-[loading...]
+[Loading...]
 
 ## Apresentando Criando uma tela 
 
-[loading...]
+[Loading...]
 
 ## Adicionando mais uma tela 
  
-[loading...]
+[Loading...]
 
 ## Apresentando Aba Design
 
-[loading...]
+[Loading...]
 
 ## Apresentando Aba Protótipos
 
-[loading...]
+[Loading...]
 
 ## Apresentando Aba Códigos
 
-[loading...]
+[Loading...]
 
 ##  💻Entre em contato & me adicione!
 
