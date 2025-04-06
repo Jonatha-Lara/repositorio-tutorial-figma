@@ -81,32 +81,51 @@ Entre as vantagens do Figma estão:
 
 ## 🤓Tutorial de uso e Documentos 
 
-- [Tutorial Figma](https://help.figma.com/hc/pt-br/sections/360006534454) 
+- [Tutorial Figma por Figma](https://help.figma.com/hc/pt-br/sections/360006534454) 
 
-- [Documentação Figma] (https://help.figma.com/hc/pt-br) 
+- [Docs Figma](https://help.figma.com/hc/pt-br) 
 
 ## Apresentação do Layout da área de trabalho do Figma 
 
 ## Apresentando Ferramentas: Mover 
 
+[loading...]
+
 ## Apresentando Ferramentas: Frame 
+
+[loading...]
 
 ## Apresentando Ferramenta: Formas 
 
+[loading...]
+
 ## Apresentando Ferramentas: Pincel 
+
+[loading...]
 
 ## Apresentando Ferramentas: Texto 
 
+[loading...]
+
 ## Apresentando Criando uma tela 
+
+[loading...]
 
 ## Adicionando mais uma tela 
  
+[loading...]
+
 ## Apresentando Aba Design
+
+[loading...]
 
 ## Apresentando Aba Protótipos
 
+[loading...]
+
 ## Apresentando Aba Códigos
 
+[loading...]
 
 ##  💻Entre em contato & me adicione!
 
